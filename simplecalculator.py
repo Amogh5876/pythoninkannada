@@ -16,7 +16,7 @@ while True:
     elif operation==2:
         print(num1-num2)
     elif operation==3:
-        print(num1*num2)
+        print(num1*num2) 
     elif operation==4:
         print(num1/num2)
     elif operation==0:
